@@ -1,3 +1,4 @@
+![th (3)](https://user-images.githubusercontent.com/83484172/116768343-7a611400-a9fb-11eb-8949-4dc6f91c7b22.jpg)
 - 👋 Hi, I’m @MSTFade
 - 👀 I’m interested in making game projects
 - 🌱 I’m currently learning coding
